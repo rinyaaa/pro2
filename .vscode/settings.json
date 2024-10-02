@@ -1,0 +1,16 @@
+{
+  "debug.console.collapseIdenticalLines": false,
+  "files.associations": {
+    "stdio.h": "c",
+    "__config": "c",
+    "stdbool.h": "c",
+    "variant": "c",
+    "stdlib.h": "c",
+    "ncurses.h": "c",
+    "math.h": "c",
+    "termios.h": "c",
+    "time.h": "c",
+    "unistd.h": "c"
+  },
+  "cSpell.words": ["outro", "Treatmentable"]
+}
